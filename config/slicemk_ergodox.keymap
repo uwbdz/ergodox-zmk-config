@@ -25,7 +25,7 @@
 &kp LCTRL       &kp LEFT_WIN  &kp LEFT_ALT  &to 3         &to 1                                                                    &to 2         &kp RIGHT_ARROW  &kp RIGHT_ALT  &mo LAYER_MOUSE  &to LAYER_NMPAD
                                                                         &kp DELETE     &kp ESC        &kp DEL        &kp B
                                                           &kp SPACE     &kp BACKSPACE  &kp PAGE_UP    &kp PAGE_DOWN  &kp ENTER     &kp SPACE
-                                                                                       &kp RETURN     &mo LAYER_FN
+                                                                                       &kp RETURN     &mo 2
             >;
         };
 
