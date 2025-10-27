@@ -4,5 +4,9 @@
 # "board". For a dongleless setup, you will need to modify both "board" and
 # "shield". Please see "readme.md" for more details.
 include:
-  - board: raytac_mdbt50q_rx_green
-    shield: slicemk_ergodox_dongle
+  - board: nice_nano_v2
+    shield: redox_left
+  - board: nice_nano_v2
+    shield: redox_right
+  - board: nice_nano_v2
+    shield: settings_reset
